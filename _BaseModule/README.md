@@ -19,7 +19,7 @@ Hello Cities: Skylines II civil engineers! This is a **Write Everywhere Module**
 7. Click on the puzzle-piece (Templates from mods)... (see screenshot)
 8. Click on 1LS CA Highway Signs (WE). (see screenshot)
 9. Click on 1LS CA Highway Sign.wedefault.xml. (see screenshot)
-10. They layout will be added to WE's COMPONENTS TREE window. (see screenshot)
+10. The layout will be added to WE's COMPONENTS TREE window. (see screenshot)
 11. Click the down arrow on 1LS CA Highway Sign.
 12. Select Sign Image.
 13. On the CONTENT window, set Atlas to 1LS CA Highway Signs (WE):1LS CA Highway Signs. (see screenshot)
