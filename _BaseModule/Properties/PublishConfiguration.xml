@@ -10,7 +10,7 @@ Hello Cities: Skylines II civil engineers! This is a **Write Everywhere Module**
 
 - 2 Lane (Small) California Highway (Freeway) signs inspired by California's MUTCD
 - 71 total signs (see screenshots)
-- Additional 85 new signs with exit tab style 1 with Ext1 WE atlas pack (with v1.1 update)
+- Additional 84 new signs with exit tab style 1 with Ext1 WE atlas pack (with v1.1 update)
 - WE Layout included for easy implementation onto your highways (freeways)
 
 ## How to Use
@@ -86,7 +86,7 @@ No fonts included. Any True-Type font (.ttf) can be used with these signs. I per
   <ModVersion Value="1.1.0" />
   <GameVersion Value="1.*" />
   <ChangeLog># v1.1
-- Adds additional 85 new 2LS CA Highway signs with California Exit Tab Style 1 with Ext1 WE atlas pack.</ChangeLog>
+- Adds additional 84 new 2LS CA Highway signs with California Exit Tab Style 1 with Ext1 WE atlas pack.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshot_0.jpg" />
   <Screenshot Value="Screenshots\Screenshot_1.jpg" />
