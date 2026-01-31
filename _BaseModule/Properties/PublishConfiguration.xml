@@ -86,10 +86,10 @@ No fonts included. Any True-Type font (.ttf) can be used with these signs. I per
 - Check out my profile for more of my signs and subscribe for the latest releases!</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/1ls-california-highway-freeway-signs-we-module.1891719" />
-  <ModVersion Value="1.1.1" />
+  <ModVersion Value="1.1.2" />
   <GameVersion Value="1.*" />
-  <ChangeLog># v1.1.1
-- Added missing 2LS YB Blank RTLNE 2, 2LS YB Blank RTLNE 2 Ext1, 2LS YB Blank LTLNE 2, and 2LS YB Blank LTLNE 2 Ext1 signs.</ChangeLog>
+  <ChangeLog># v1.1.2
+- Removed 2LS EOR ExtL sign (such sign would not exist).</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshot_0.jpg" />
   <Screenshot Value="Screenshots\Screenshot_1.jpg" />
